@@ -1,8 +1,8 @@
 # YelpCamp
 
-This is my final project of full-stack web developer bootcamp! Site is ment to imitate Yelp but for campgrounds.
+This is my final project of full-stack web developer bootcamp! Site is meant to imitate Yelp but for campgrounds.
 
-You can check out YelpCamp on following link:  <br>
+You can check out YelpCamp on following link: https://frail-sockeye.cyclic.app/  <br>
 
 ## Tech stack
 
