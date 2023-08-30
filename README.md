@@ -33,4 +33,4 @@ You can check out YelpCamp on following link: https://frail-sockeye.cyclic.app/ 
 #### **Made by Joshua Famose with guidance from Colt Steele**
 
 
-##### **NOTE** currently working on the map error
+##### **NOTE** -> currently working on the map error
